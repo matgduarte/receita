@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+body{
+    background-color: #EAEAEA;
+    font-family: 'roboto',sans-serif;
+}
+#rodape{
+    width: 100%;
+    height: 150px;
+    color: #8F8F8F;
+    font-size: 12px;
+    background-color: #ffa047;
+    padding: auto;
+    margin: auto;
+    
+}
+#rodape img{
+width: 70px;
+
+}
+
+    
+    
+
+main{
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    padding: 0 auto;
+   
+    width: 90%;
+}
+article{
+    margin: 20px;
+    border:  ;
+    border-color: #ffd298;
+    background-color: #ffd298;
+    border-style:;
+    border-radius: 10px;
+}
+article li{
+    margin-left: 20px;
+}
+h1{
+    color:  #1B1B1B;
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    height: 150px;
+    border-radius: 20px;
+    background-color:#ffa047 ;
+    margin: 7px;
+    height: auto;
+}
+header nav ul li{
+    background-color:#ffd298;
+    display: inline-block;
+    text-align: center;
+    margin: 7px auto ;
+    margin left: 10%;
+    margin right: 10%;
+    border:#ffd298 auto;
+    
+}
+header nav ul{
+    background-color:#ffd298;
+    display: block;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+#img{
+    margin: auto auto;
+    padding: auto auto;
+    
+}
+figure{
+    display: inline-block;
+    margin: 0 auto;
+}
+img figcaption{
+    color: #8F8F8F;
+    position: relative;
+    left: 500px;
+}
+figure img{
+    border: solid red 3px;
+    border-radius: 15px;
+    margin-left: 60%;
+}
+
+
+
